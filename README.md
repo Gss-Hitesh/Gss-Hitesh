@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Gss-Hitesh
-- 👀 I’m interested in
-- 🌱 I’m currently learning devOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-- I am student of IT third year
-
+- 👋 Hii Everyone My name is Hitesh , 
+- ✍️ Third Year IT Engg Student ,
+- ❤️ Loves Coding and learn new things,
+- ⭐ 2 Star coder on Codechef & Codeforces,
+- ⌨️ Front-end Developer & learning Backend,
+- 🌐 Learned languages C++, Java, Python, HTML, CSS, JavaScript,
 
 <!---
 Gss-Hitesh/Gss-Hitesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
