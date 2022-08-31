@@ -1,8 +1,8 @@
 - 👋 Hii Everyone My name is Hitesh , 
-- ✍️ Third Year IT Engg Student ,
+- ✍️ Currently IT Engg Student ,
 - ❤️ Loves Coding and learn new things,
-- ⭐ 2 Star coder on Codechef & Codeforces,
-- ⌨️ Front-end Developer & learning Backend,
+- ⭐ 2 Star coder on Codechef & Codeforces(just practice),
+- ⌨️ Front-end & Back-end learner,
 - 🌐 Learned languages C++, Java, Python, HTML, CSS, JavaScript,
 
 <!---
